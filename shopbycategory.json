@@ -1,28 +1,28 @@
 {
   "shopByCategory": [
     {
-      "title": "Electronics",
-      "image": "assets/images/electronics.png",
+      "title": "Vegan",
+      "image": "https://i.imgur.com/AX1u6ke.png",
       "color": "#FF5733"
     },
     {
-      "title": "Fashion",
-      "image": "assets/images/fashion.png",
+      "title": "Meat",
+      "image": "https://i.imgur.com/AX1u6ke.png",
       "color": "#33FF57"
     },
     {
-      "title": "Home & Kitchen",
-      "image": "assets/images/home_kitchen.png",
+      "title": "Fruits",
+      "image": "https://i.imgur.com/AX1u6ke.png",
       "color": "#3357FF"
     },
     {
-      "title": "Beauty & Health",
-      "image": "assets/images/beauty_health.png",
+      "title": "Milk",
+      "image": "https://i.imgur.com/AX1u6ke.png",
       "color": "#F1C40F"
     },
     {
-      "title": "Sports & Outdoors",
-      "image": "assets/images/sports_outdoors.png",
+      "title": "Fish",
+      "image": "https://i.imgur.com/AX1u6ke.png",
       "color": "#8E44AD"
     }
   ]
