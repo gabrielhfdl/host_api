@@ -1,0 +1,29 @@
+{
+  "shopByCategory": [
+    {
+      "title": "Electronics",
+      "image": "assets/images/electronics.png",
+      "color": "#FF5733"
+    },
+    {
+      "title": "Fashion",
+      "image": "assets/images/fashion.png",
+      "color": "#33FF57"
+    },
+    {
+      "title": "Home & Kitchen",
+      "image": "assets/images/home_kitchen.png",
+      "color": "#3357FF"
+    },
+    {
+      "title": "Beauty & Health",
+      "image": "assets/images/beauty_health.png",
+      "color": "#F1C40F"
+    },
+    {
+      "title": "Sports & Outdoors",
+      "image": "assets/images/sports_outdoors.png",
+      "color": "#8E44AD"
+    }
+  ]
+}
