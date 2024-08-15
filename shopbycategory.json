@@ -2,28 +2,23 @@
   "shopByCategory": [
     {
       "title": "Vegan",
-      "image": "https://i.imgur.com/AX1u6ke.png",
-      "color": "#FF5733"
+      "image": "https://i.imgur.com/AX1u6ke.png"
     },
     {
       "title": "Meat",
-      "image": "https://i.imgur.com/AX1u6ke.png",
-      "color": "#33FF57"
+      "image": "https://i.imgur.com/AX1u6ke.png"
     },
     {
       "title": "Fruits",
-      "image": "https://i.imgur.com/AX1u6ke.png",
-      "color": "#3357FF"
+      "image": "https://i.imgur.com/AX1u6ke.png"
     },
     {
       "title": "Milk",
-      "image": "https://i.imgur.com/AX1u6ke.png",
-      "color": "#F1C40F"
+      "image": "https://i.imgur.com/AX1u6ke.png"
     },
     {
       "title": "Fish",
-      "image": "https://i.imgur.com/AX1u6ke.png",
-      "color": "#8E44AD"
+      "image": "https://i.imgur.com/AX1u6ke.png"
     }
   ]
 }
