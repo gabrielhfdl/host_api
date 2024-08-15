@@ -1,0 +1,18 @@
+{
+  "specialItems": [
+    {
+      "title": "Laranja",
+      "rating": 4.5,
+      "description": "Laranja fresca e suculenta, ideal para sucos e consumo direto. Rica em vitamina C e antioxidantes.",
+      "shop": "Frutas do Vale",
+      "image": "https://example.com/images/orange.jpg"
+    },
+    {
+      "title": "Alface",
+      "rating": 4.5,
+      "description": "Alface crocante e fresca, perfeita para saladas e acompanhamento de pratos. Cultivada com cuidado para garantir qualidade.",
+      "shop": "Verduras Frescas",
+      "image": "https://example.com/images/lettuce.jpg"
+    }
+  ]
+}
