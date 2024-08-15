@@ -5,14 +5,22 @@
       "rating": 4.5,
       "description": "Fresh and juicy orange, ideal for juices and direct consumption. Rich in vitamin C and antioxidants.",
       "shop": "Fruits of the Valley",
-      "image": "https://example.com/images/orange.jpg"
+      "images": [
+        "https://i.imgur.com/AX1u6ke.png",
+        "https://i.imgur.com/AX1u6ke.png",
+        "https://i.imgur.com/AX1u6ke.png"
+      ]
     },
     {
       "title": "Organic Fresh Green Lettuce",
       "rating": 4.5,
       "description": "Crispy and fresh lettuce, perfect for salads and as a side dish. Carefully cultivated to ensure quality.",
       "shop": "Alisha Mart",
-      "image": "https://example.com/images/lettuce.jpg"
+      "images": [
+        "https://i.imgur.com/AX1u6ke.png",
+        "https://i.imgur.com/AX1u6ke.png",
+        "https://i.imgur.com/AX1u6ke.png"
+      ]
     }
   ]
 }
