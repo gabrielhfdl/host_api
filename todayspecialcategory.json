@@ -3,6 +3,8 @@
     {
       "title": "Organic Orange Fresh",
       "rating": 4.5,
+      "price": 5.90,
+      "oldPrice": 10.99,
       "description": "Fresh and juicy orange, ideal for juices and direct consumption. Rich in vitamin C and antioxidants.",
       "shop": "Fruits of the Valley",
       "images": [
@@ -14,6 +16,8 @@
     {
       "title": "Organic Fresh Green Lettuce",
       "rating": 4.7,
+      "price": 6.90,
+      "oldPrice": 8.15,
       "description": "Crispy and fresh lettuce, perfect for salads and as a side dish. Carefully cultivated to ensure quality.",
       "shop": "Alisha Mart",
       "images": [
