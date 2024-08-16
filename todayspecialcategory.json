@@ -1,25 +1,25 @@
 {
   "specialItems": [
     {
-      "title": "Organic Orange",
+      "title": "Organic Orange Fresh",
       "rating": 4.5,
       "description": "Fresh and juicy orange, ideal for juices and direct consumption. Rich in vitamin C and antioxidants.",
       "shop": "Fruits of the Valley",
       "images": [
-        "https://i.imgur.com/AX1u6ke.png",
-        "https://i.imgur.com/AX1u6ke.png",
-        "https://i.imgur.com/AX1u6ke.png"
+        "https://imgur.com/3qAitDO",
+        "https://imgur.com/6vHrbwS",
+        "https://imgur.com/6Xvvw25"
       ]
     },
     {
       "title": "Organic Fresh Green Lettuce",
-      "rating": 4.5,
+      "rating": 4.7,
       "description": "Crispy and fresh lettuce, perfect for salads and as a side dish. Carefully cultivated to ensure quality.",
       "shop": "Alisha Mart",
       "images": [
-        "https://i.imgur.com/AX1u6ke.png",
-        "https://i.imgur.com/AX1u6ke.png",
-        "https://i.imgur.com/AX1u6ke.png"
+        "https://imgur.com/Bgu6DEY",
+        "https://imgur.com/e2bko9o",
+        "https://imgur.com/QB3u3hC"
       ]
     }
   ]
